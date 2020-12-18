@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "803021128817",
+    "firebase_url": "https://tuchamba-91c62.firebaseio.com",
+    "project_id": "tuchamba-91c62",
+    "storage_bucket": "tuchamba-91c62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803021128817:android:c73e56b53197be5ef387d0",
+        "android_client_info": {
+          "package_name": "com.example.tuchamba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803021128817-9628meniqmeki3ipnp0njjljhlt7gfj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO4xOeK7KC-esrZB6gqX70rpZn0fubOa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803021128817-9628meniqmeki3ipnp0njjljhlt7gfj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
